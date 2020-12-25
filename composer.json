@@ -1,0 +1,16 @@
+{
+    "name": "amsterdan/mask",
+    "description": "敏感信息打码处理",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "scott",
+        "email": "amsterdan@163.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Amsterdan\\": "src/Amsterdan/"
+        }
+    }
+}
